@@ -6,7 +6,7 @@ import rospy
 from std_msgs.msg import String
 from std_msgs.msg import Empty
 from std_msgs.msg import Int8
-
+#from getkey import getkeys, key
 import getkey
 # if the system turn a error about getkey, use the following command in a shell to install the extension
 # 'sudo pip install getkey'
